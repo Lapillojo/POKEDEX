@@ -16,8 +16,9 @@ margin: 0;
 h1{
 
 font-family: 'Bangers', cursive;
-color:yellow;
+color:rgb(254, 254, 20);
 font-size: 50px;
+text-shadow: 5px 5px #060609;
 } 
 
 
